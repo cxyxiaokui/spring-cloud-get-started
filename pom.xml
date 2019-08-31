@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cn.zhuoqianmingyue</groupId>
+  <artifactId>spring-cloud-get-started</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>spring-cloud-get-started</name>
+
+  <modules>
+   <module>spring-cloud-eureka-single-service</module>
+  	<module>spring-cloud-eureka-single-service-client</module>
+  	<module>spring-cloud-eureka-multi-service-client</module>
+  	<module>spring-cloud-eureka-multi-service-server1</module>
+  	<module>spring-cloud-eureka-multi-service-server2</module>
+  	<module>spring-cloud-eureka-multi-service-server3</module>
+  	<module>spring-cloud-eureka-ribbion-service</module>
+  	<module>spring-cloud-eureka-ribbion-product</module>
+	<module>spring-cloud-eureka-ribbion-product2</module>
+  	<module>spring-cloud-eureka-ribbion-service-order-consume</module>
+  	<module>spring-cloud-eureka-ribbion-service-order-consume-annotation</module>	
+  	<module>spring-cloud-eureka-feign-service-order-consume</module>
+  </modules>
+</project>
