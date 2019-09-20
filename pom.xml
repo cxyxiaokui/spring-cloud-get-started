@@ -19,5 +19,8 @@
   	<module>spring-cloud-eureka-ribbion-service-order-consume</module>
   	<module>spring-cloud-eureka-ribbion-service-order-consume-annotation</module>	
   	<module>spring-cloud-eureka-feign-service-order-consume</module>
+	<module>spring-cloud-config-eureka-service</module>
+	<module>spring-cloud-config-product-service</module>
+	<module>spring-cloud-config-server</module>
   </modules>
 </project>
