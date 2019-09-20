@@ -14,16 +14,6 @@ SpringCloud 个人学习示例程序
 
 - JDK 必须是1.8 或更高。
 
-如下所示 基础应用篇，高级应用篇，原理应用篇 列表说明：
-
-- 第一个是：示例教程博客教程
-
-- 第二个是：示例教程具体代码 Mavne 模块 （可以单独部署）
-
-**SpringBoot版本：** 2.1.0.RELEASE
-
 ---
 
-## SpringBoot2.x 基础应用篇
-
-- [快速搭建我们的SpringBoot 2](https://zhuoqianmingyue.blog.csdn.net/article/details/99953763)  **spring-boot-2.x-start** 
+- [带你入门SpringCloud服务发现 | Eurka搭建和使用](https://zhuoqianmingyue.blog.csdn.net/article/details/100176962)
