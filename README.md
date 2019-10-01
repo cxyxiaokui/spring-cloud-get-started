@@ -20,4 +20,7 @@ SpringCloud 个人学习示例程序
 
 - [带你入门SpringCloud统一配置 | SpringCloud Config](https://mp.weixin.qq.com/s/5rx03KY8d2m0RQjKQwbTCQ)
 
+- [带你入门SpringCloud 之 通过SpringCloud Bus 自动更新配置](https://blog.csdn.net/ljk126wy/article/details/101114638)
+
+
 
