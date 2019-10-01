@@ -16,4 +16,8 @@ SpringCloud 个人学习示例程序
 
 ---
 
-- [带你入门SpringCloud服务发现 | Eurka搭建和使用](https://zhuoqianmingyue.blog.csdn.net/article/details/100176962)
+- [带你入门SpringCloud服务发现 | Eurka搭建和使用](https://mp.weixin.qq.com/s/xG26rDAC8qXfbA1haOG69A)
+
+- [带你入门SpringCloud统一配置 | SpringCloud Config](https://mp.weixin.qq.com/s/5rx03KY8d2m0RQjKQwbTCQ)
+
+
